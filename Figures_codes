@@ -9,5 +9,9 @@ https://drive.google.com/open?id=152ynXBoo-iX676nMSBEVUBKC9vF0COq4&usp=drive_cop
 3. Difusão-reação com crescimento malthusiano - homogeneização
 https://drive.google.com/open?id=1AvIp3LXVE9Bnlkre_kI305p-EWmywwmQ&usp=drive_copy
 
-4. Simulação da solução numérica da eq. de difusão-reação com termo de crescimento facilitado:
-https://colab.research.google.com/drive/1WGBau3mv-1EwmQewKACGBNXr-RaxZuPq?usp=drive_link
+4. (Método explícito) Difusão-reação com termo de crescimento malthusiano:
+https://colab.research.google.com/drive/1kksQihi4ayH97J2LjjPGZaIOhBLK3QvE?usp=drive_link
+
+5. (Método explícito) Difusão-reação com termo de crescimento facilitado:
+https://colab.research.google.com/drive/1ZcU_U8A4vZ2Et6Myp-Q8O3jSSyOEq5oO?usp=drive_link
+
